@@ -8,5 +8,4 @@
     "iconUrl": "https://i.pinimg.com/236x/96/ed/22/96ed22d97c25143d203045342f6132ab.jpg",
     "description": "A demo plugin to showcase dynamic loading in LightNovelReaderApp. Provides mock novel data."
   }
-  // If you create more plugins later, you would add more entries here.
 ]
