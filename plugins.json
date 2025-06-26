@@ -1,6 +1,6 @@
 [
   {
-    "id": "my-example-source",
+    "id": "Test-Plugin",
     "name": "My Example Novel Source",
     "version": 1,
     "url": "https://github.com/FusionJed/plugins/raw/refs/heads/main/Test-Plugin-1.0.0.jar",
