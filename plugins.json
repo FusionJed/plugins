@@ -1,11 +1,8 @@
 [
   {
-    "id": "my-example-source",
-    "name": "My Example Novel Source",
-    "version": 1,
-    "url": "https://github.com/FusionJed/plugins/raw/refs/heads/main/Test-Plugin-1.0.0.jar",
-    "lang": "en",
-    "iconUrl": "https://i.pinimg.com/236x/96/ed/22/96ed22d97c25143d203045342f6132ab.jpg",
-    "description": "A demo plugin to showcase dynamic loading in LightNovelReaderApp. Provides mock novel data."
+    "id": "my_example_source",
+    "name": "My Example Manga Source",
+    "version": "1.0.0",
+    "url": "https://github.com/FusionJed/plugins/raw/refs/heads/main/my-example-plugin-1.0.0.jar"
   }
 ]
