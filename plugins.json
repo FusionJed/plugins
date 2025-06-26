@@ -3,7 +3,7 @@
     "id": "my-example-source",
     "name": "My Example Novel Source",
     "version": 1,
-    "url": "http://10.0.2.2:8080/my-example-plugin-1.0.0.jar",
+    "url": "https://github.com/FusionJed/plugins/blob/main/Test-Plugin-1.0.0.jar",
     "lang": "en",
     "iconUrl": "https://i.pinimg.com/236x/96/ed/22/96ed22d97c25143d203045342f6132ab.jpg",
     "description": "A demo plugin to showcase dynamic loading in LightNovelReaderApp. Provides mock novel data."
